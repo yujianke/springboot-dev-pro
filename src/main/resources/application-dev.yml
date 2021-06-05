@@ -1,0 +1,4 @@
+yjk:
+  name: dev
+server:
+  port: 8081

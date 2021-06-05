@@ -1,0 +1,5 @@
+yjk:
+  name: yujianke
+spring:
+  profiles:
+    active: pro
